@@ -1,13 +1,10 @@
 groq
-ollama
 python-dotenv
-spacy
 streamlit
 pdfplumber
 python-docx
 reportlab
 langdetect
-openai
 deep-translator
 en-core-web-sm==3.8.0
 spacy==3.8.11
