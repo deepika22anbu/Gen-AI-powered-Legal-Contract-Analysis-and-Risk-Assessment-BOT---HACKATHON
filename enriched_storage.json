@@ -1,0 +1,310 @@
+{
+  "document_id": "aa4e91b4-1027-4f51-ba4d-787158ac4626",
+  "document_type": "contract",
+  "source_language": "en",
+  "normalized_language": "en",
+  "contract_type_hint": null,
+  "metadata": {
+    "file_name": "SERVICE AGREEMENT- English.pdf",
+    "uploaded_at": "2026-02-06T11:50:10.801060",
+    "page_count": null
+  },
+  "raw_text": "SERVICE AGREEMENT\nThis Service Agreement (“Agreement”) is entered into on 1st April 2024\nbetween ABC Technologies Pvt. Ltd., having its registered office at Bengaluru,\nKarnataka (“Service Provider”) and XYZ Retail Solutions, having its principal\nplace of business at Mumbai, Maharashtra (“Client”).\n1. Scope of Services\nThe Service Provider shall provide software development and maintenance\nservices as agreed in writing from time to time.\n2. Payment Terms\nThe Client shall pay a monthly fee of INR 2,00,000 within 15 days of receipt\nof invoice. Delay in payment shall attract a penalty of 2% per month.\n3. Term and Termination\nThis Agreement shall be valid for a period of 2 years.\nThe Client may terminate this Agreement at any time without cause by\nproviding 15 days written notice.\nThe Service Provider shall not terminate the Agreement before completion\nof the term.\n4. Confidentiality\nBoth parties shall maintain confidentiality of all business and technical\ninformation received during the term of this Agreement.\n5. Intellectual Property\nAll intellectual property created during the course of this Agreement shall\nbelong exclusively to the Client.\n6. Indemnity\nThe Service Provider agrees to indemnify and hold harmless the Client from\nany claims, losses, or damages arising out of breach of this Agreement.\n7. Governing Law and Jurisdiction\nThis Agreement shall be governed by the laws of India.\nThe courts of Mumbai shall have exclusive jurisdiction.\nIN WITNESS WHEREOF, the parties have executed this Agreement on the\ndate first written above.",
+  "clauses": [
+    {
+      "clause_id": "1",
+      "title": null,
+      "text_original": "SERVICE AGREEMENT\nThis Service Agreement (“Agreement”) is entered into on 1st April 2024\nbetween ABC Technologies Pvt. Ltd., having its registered office at Bengaluru,\nKarnataka (“Service Provider”) and XYZ Retail Solutions, having its principal\nplace of business at Mumbai, Maharashtra (“Client”).",
+      "entities": {
+        "parties": [
+          "ABC Technologies Pvt. Ltd.",
+          "XYZ Retail Solutions"
+        ],
+        "amounts": [],
+        "dates": [
+          "1st April 2024"
+        ],
+        "durations": [],
+        "jurisdiction": [
+          "Bengaluru",
+          "Mumbai"
+        ],
+        "obligations": []
+      },
+      "legal_role": {
+        "type": "Other",
+        "trigger_phrase": null,
+        "affected_party": "ABC Technologies Pvt. Ltd."
+      },
+      "risk_types": [
+        "Intellectual Property"
+      ],
+      "risk_score": {
+        "score": 65,
+        "level": "Medium"
+      },
+      "llm_explanation": {
+        "plain_language_explanation": "This clause is standard and low risk.",
+        "risk_reasoning": null,
+        "suggested_alternative_clause": null,
+        "llm_confidence": 1.0
+      }
+    },
+    {
+      "clause_id": "1",
+      "title": null,
+      "text_original": "Scope of Services\nThe Service Provider shall provide software development and maintenance\nservices as agreed in writing from time to time.",
+      "entities": {
+        "parties": [
+          "Scope of Services"
+        ],
+        "amounts": [],
+        "dates": [],
+        "durations": [],
+        "jurisdiction": [],
+        "obligations": [
+          "shall"
+        ]
+      },
+      "legal_role": {
+        "type": "Obligation",
+        "trigger_phrase": "shall",
+        "affected_party": "Scope of Services"
+      },
+      "risk_types": [],
+      "risk_score": {
+        "score": 0,
+        "level": "Low"
+      },
+      "llm_explanation": {
+        "plain_language_explanation": "This clause is standard and low risk.",
+        "risk_reasoning": null,
+        "suggested_alternative_clause": null,
+        "llm_confidence": 1.0
+      }
+    },
+    {
+      "clause_id": "2",
+      "title": null,
+      "text_original": "Payment Terms\nThe Client shall pay a monthly fee of INR 2,00,000 within 15 days of receipt\nof invoice. Delay in payment shall attract a penalty of 2% per month.",
+      "entities": {
+        "parties": [
+          "INR"
+        ],
+        "amounts": [
+          "INR 2,00,000",
+          "2%"
+        ],
+        "dates": [
+          "monthly",
+          "15 days"
+        ],
+        "durations": [],
+        "jurisdiction": [],
+        "obligations": [
+          "shall"
+        ]
+      },
+      "legal_role": {
+        "type": "Obligation",
+        "trigger_phrase": "shall",
+        "affected_party": "INR"
+      },
+      "risk_types": [
+        "Intellectual Property",
+        "Penalty"
+      ],
+      "risk_score": {
+        "score": 78,
+        "level": "High"
+      },
+      "llm_explanation": {
+        "plain_language_explanation": "This clause is standard and low risk.",
+        "risk_reasoning": null,
+        "suggested_alternative_clause": null,
+        "llm_confidence": 1.0
+      }
+    },
+    {
+      "clause_id": "3",
+      "title": null,
+      "text_original": "Term and Termination\nThis Agreement shall be valid for a period of 2 years.\nThe Client may terminate this Agreement at any time without cause by\nproviding 15 days written notice.\nThe Service Provider shall not terminate the Agreement before completion\nof the term.",
+      "entities": {
+        "parties": [],
+        "amounts": [],
+        "dates": [
+          "a period of 2 years",
+          "15 days"
+        ],
+        "durations": [],
+        "jurisdiction": [],
+        "obligations": [
+          "shall"
+        ]
+      },
+      "legal_role": {
+        "type": "Prohibition",
+        "trigger_phrase": "shall not",
+        "affected_party": "Unspecified"
+      },
+      "risk_types": [
+        "Termination"
+      ],
+      "risk_score": {
+        "score": 91,
+        "level": "High"
+      },
+      "llm_explanation": {
+        "plain_language_explanation": "This clause is standard and low risk.",
+        "risk_reasoning": null,
+        "suggested_alternative_clause": null,
+        "llm_confidence": 1.0
+      }
+    },
+    {
+      "clause_id": "4",
+      "title": null,
+      "text_original": "Confidentiality\nBoth parties shall maintain confidentiality of all business and technical\ninformation received during the term of this Agreement.",
+      "entities": {
+        "parties": [],
+        "amounts": [],
+        "dates": [],
+        "durations": [],
+        "jurisdiction": [],
+        "obligations": [
+          "shall"
+        ]
+      },
+      "legal_role": {
+        "type": "Obligation",
+        "trigger_phrase": "shall",
+        "affected_party": "Unspecified"
+      },
+      "risk_types": [
+        "Confidentiality"
+      ],
+      "risk_score": {
+        "score": 48,
+        "level": "Medium"
+      },
+      "llm_explanation": {
+        "plain_language_explanation": "This clause is standard and low risk.",
+        "risk_reasoning": null,
+        "suggested_alternative_clause": null,
+        "llm_confidence": 1.0
+      }
+    },
+    {
+      "clause_id": "5",
+      "title": null,
+      "text_original": "Intellectual Property\nAll intellectual property created during the course of this Agreement shall\nbelong exclusively to the Client.",
+      "entities": {
+        "parties": [],
+        "amounts": [],
+        "dates": [],
+        "durations": [],
+        "jurisdiction": [
+          "Client"
+        ],
+        "obligations": [
+          "shall"
+        ]
+      },
+      "legal_role": {
+        "type": "Obligation",
+        "trigger_phrase": "shall",
+        "affected_party": "Unspecified"
+      },
+      "risk_types": [
+        "Intellectual Property"
+      ],
+      "risk_score": {
+        "score": 78,
+        "level": "High"
+      },
+      "llm_explanation": {
+        "plain_language_explanation": "This clause is standard and low risk.",
+        "risk_reasoning": null,
+        "suggested_alternative_clause": null,
+        "llm_confidence": 1.0
+      }
+    },
+    {
+      "clause_id": "6",
+      "title": null,
+      "text_original": "Indemnity\nThe Service Provider agrees to indemnify and hold harmless the Client from\nany claims, losses, or damages arising out of breach of this Agreement.",
+      "entities": {
+        "parties": [],
+        "amounts": [],
+        "dates": [],
+        "durations": [],
+        "jurisdiction": [],
+        "obligations": [
+          "agrees to"
+        ]
+      },
+      "legal_role": {
+        "type": "Obligation",
+        "trigger_phrase": "agrees to",
+        "affected_party": "Unspecified"
+      },
+      "risk_types": [
+        "Indemnity"
+      ],
+      "risk_score": {
+        "score": 90,
+        "level": "High"
+      },
+      "llm_explanation": {
+        "plain_language_explanation": "This clause is standard and low risk.",
+        "risk_reasoning": null,
+        "suggested_alternative_clause": null,
+        "llm_confidence": 1.0
+      }
+    },
+    {
+      "clause_id": "7",
+      "title": null,
+      "text_original": "Governing Law and Jurisdiction\nThis Agreement shall be governed by the laws of India.\nThe courts of Mumbai shall have exclusive jurisdiction.\nIN WITNESS WHEREOF, the parties have executed this Agreement on the\ndate first written above.",
+      "entities": {
+        "parties": [],
+        "amounts": [],
+        "dates": [],
+        "durations": [],
+        "jurisdiction": [
+          "India",
+          "Mumbai"
+        ],
+        "obligations": [
+          "shall"
+        ]
+      },
+      "legal_role": {
+        "type": "Obligation",
+        "trigger_phrase": "shall",
+        "affected_party": "Unspecified"
+      },
+      "risk_types": [
+        "Jurisdiction"
+      ],
+      "risk_score": {
+        "score": 60,
+        "level": "Medium"
+      },
+      "llm_explanation": {
+        "plain_language_explanation": "This clause is standard and low risk.",
+        "risk_reasoning": null,
+        "suggested_alternative_clause": null,
+        "llm_confidence": 1.0
+      }
+    }
+  ],
+  "audit": {
+    "ingestion_method": "streamlit_file_upload",
+    "confidence": 0.95
+  },
+  "contract_risk_summary": {
+    "average_score": 63.75,
+    "risk_level": "Medium"
+  }
+}

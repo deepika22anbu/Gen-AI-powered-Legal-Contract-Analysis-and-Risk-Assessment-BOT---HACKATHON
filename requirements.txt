@@ -1,0 +1,11 @@
+groq
+ollama
+python-dotenv
+spacy
+streamlit
+pdfplumber
+python-docx
+reportlab
+langdetect
+openai
+deep-translator
