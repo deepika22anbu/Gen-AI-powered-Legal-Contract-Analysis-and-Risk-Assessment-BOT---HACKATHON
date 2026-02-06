@@ -1,12 +1,22 @@
 groq
-python-dotenv
 streamlit
-pdfplumber
-python-docx
 reportlab
 langdetect
 deep-translator
-en-core-web-sm==3.8.0
+
+streamlit==1.31.1
+
+# NLP
 spacy==3.8.11
+en-core-web-sm==3.8.0
+
+# spaCy CLI compatibility
 typer<0.10.0
 click<8.1.4
+
+# Document parsing
+pdfplumber
+python-docx
+
+# Environment
+python-dotenv
