@@ -1,0 +1,46 @@
+                ┌────────────────────┐
+                │   User Interface         │
+                │   (Streamlit UI)         │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │  Document Ingestion      │
+                │  (PDF / DOCX / TXT)      │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │  Translation Layer       │
+                │ Hindi → Simple EN        │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │ Deterministic Layer      │
+                │ Clause Extraction        │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │  Reasoning Layer         │
+                │ Clause Structuring       │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │ Risk Indication          │
+                │ Risk Identification      │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │   LLM Integration        │
+                │  (Groq / Agents)         │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                ┌────────────────────┐
+                │ Plain-English Output     │
+                │ Summary & Insights       │
+                └────────────────────┘
