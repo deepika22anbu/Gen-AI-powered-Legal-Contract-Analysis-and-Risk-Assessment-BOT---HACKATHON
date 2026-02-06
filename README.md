@@ -1,0 +1,2 @@
+# Gen-AI-powered-Legal-Contract-Analysis-and-Risk-Assessment-BOT---HACKATHON
+An AI-driven legal assistant that enables SMEs to understand complex contracts, identify risks, and make informed decisions before signing.  Built as a hackathon-ready, production-deployable prototype, the platform uses Large Language Models (LLMs) and modular reasoning layers to convert dense legal documents into clear, actionable insights.
