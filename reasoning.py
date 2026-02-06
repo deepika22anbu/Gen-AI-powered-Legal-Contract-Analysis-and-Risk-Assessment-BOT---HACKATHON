@@ -1,7 +1,14 @@
 import spacy
 import re
 
-nlp = spacy.load("en_core_web_sm")
+
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    import en_core_web_sm
+    nlp = en_core_web_sm.load()
+
+# nlp = spacy.load("en_core_web_sm")
 
 def extract_amounts(text):
     pattern = r'(₹\s?\d+[,\d]*|\bINR\s?\d+[,\d]*|\d+%|\d+\s?percent)'

@@ -9,3 +9,7 @@ reportlab
 langdetect
 openai
 deep-translator
+en-core-web-sm==3.8.0
+spacy==3.8.11
+typer<0.10.0
+click<8.1.4
