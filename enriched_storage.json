@@ -1,12 +1,12 @@
 {
-  "document_id": "aa4e91b4-1027-4f51-ba4d-787158ac4626",
+  "document_id": "5cbcc844-5406-47be-893d-b6f818dd4059",
   "document_type": "contract",
   "source_language": "en",
   "normalized_language": "en",
   "contract_type_hint": null,
   "metadata": {
     "file_name": "SERVICE AGREEMENT- English.pdf",
-    "uploaded_at": "2026-02-06T11:50:10.801060",
+    "uploaded_at": "2026-02-06T14:53:02.507478",
     "page_count": null
   },
   "raw_text": "SERVICE AGREEMENT\nThis Service Agreement (“Agreement”) is entered into on 1st April 2024\nbetween ABC Technologies Pvt. Ltd., having its registered office at Bengaluru,\nKarnataka (“Service Provider”) and XYZ Retail Solutions, having its principal\nplace of business at Mumbai, Maharashtra (“Client”).\n1. Scope of Services\nThe Service Provider shall provide software development and maintenance\nservices as agreed in writing from time to time.\n2. Payment Terms\nThe Client shall pay a monthly fee of INR 2,00,000 within 15 days of receipt\nof invoice. Delay in payment shall attract a penalty of 2% per month.\n3. Term and Termination\nThis Agreement shall be valid for a period of 2 years.\nThe Client may terminate this Agreement at any time without cause by\nproviding 15 days written notice.\nThe Service Provider shall not terminate the Agreement before completion\nof the term.\n4. Confidentiality\nBoth parties shall maintain confidentiality of all business and technical\ninformation received during the term of this Agreement.\n5. Intellectual Property\nAll intellectual property created during the course of this Agreement shall\nbelong exclusively to the Client.\n6. Indemnity\nThe Service Provider agrees to indemnify and hold harmless the Client from\nany claims, losses, or damages arising out of breach of this Agreement.\n7. Governing Law and Jurisdiction\nThis Agreement shall be governed by the laws of India.\nThe courts of Mumbai shall have exclusive jurisdiction.\nIN WITNESS WHEREOF, the parties have executed this Agreement on the\ndate first written above.",
@@ -44,10 +44,10 @@
         "level": "Medium"
       },
       "llm_explanation": {
-        "plain_language_explanation": "This clause is standard and low risk.",
-        "risk_reasoning": null,
-        "suggested_alternative_clause": null,
-        "llm_confidence": 1.0
+        "plain_language_explanation": "This is the introduction to the service agreement between the service provider (ABC Technologies) and the client (XYZ Retail Solutions). It states the date and parties involved.",
+        "risk_reasoning": "This clause may be risky because it doesn't clearly outline the scope of work or the responsibilities of each party. This could lead to misunderstandings or disputes down the line.",
+        "suggested_alternative_clause": "The Service Provider agrees to provide the following services to the Client: [list specific services]. The Client agrees to [list specific responsibilities].",
+        "llm_confidence": 0.8
       }
     },
     {
@@ -77,10 +77,10 @@
         "level": "Low"
       },
       "llm_explanation": {
-        "plain_language_explanation": "This clause is standard and low risk.",
-        "risk_reasoning": null,
-        "suggested_alternative_clause": null,
-        "llm_confidence": 1.0
+        "plain_language_explanation": "This is the introduction to the service agreement between the service provider (ABC Technologies) and the client (XYZ Retail Solutions). It states the date and parties involved.",
+        "risk_reasoning": "This clause may be risky because it doesn't clearly outline the scope of work or the responsibilities of each party. This could lead to misunderstandings or disputes down the line.",
+        "suggested_alternative_clause": "The Service Provider agrees to provide the following services to the Client: [list specific services]. The Client agrees to [list specific responsibilities].",
+        "llm_confidence": 0.8
       }
     },
     {
@@ -119,10 +119,10 @@
         "level": "High"
       },
       "llm_explanation": {
-        "plain_language_explanation": "This clause is standard and low risk.",
-        "risk_reasoning": null,
-        "suggested_alternative_clause": null,
-        "llm_confidence": 1.0
+        "plain_language_explanation": "The client must pay a monthly fee of INR 2,00,000 within 15 days of receiving an invoice. If they don't pay on time, they'll be charged a penalty of 2% per month.",
+        "risk_reasoning": "This clause may be risky because the penalty for late payment is quite high. This could put the client in a difficult financial position if they're unable to pay on time.",
+        "suggested_alternative_clause": "The Client shall pay a monthly fee of INR 2,00,000 within 30 days of receiving an invoice. A late payment fee of 1% per month will be applied after the initial 15-day grace period.",
+        "llm_confidence": 0.9
       }
     },
     {
@@ -155,10 +155,10 @@
         "level": "High"
       },
       "llm_explanation": {
-        "plain_language_explanation": "This clause is standard and low risk.",
-        "risk_reasoning": null,
-        "suggested_alternative_clause": null,
-        "llm_confidence": 1.0
+        "plain_language_explanation": "This agreement will be valid for 2 years. The client can terminate the agreement at any time by giving 15 days' written notice. The service provider cannot terminate the agreement before the end of the 2-year term.",
+        "risk_reasoning": "This clause may be risky because it gives the client a lot of flexibility to terminate the agreement, while limiting the service provider's ability to do so. This could lead to an imbalance in the relationship.",
+        "suggested_alternative_clause": "This agreement will be valid for 2 years. Either party can terminate the agreement with 30 days' written notice. However, if the client terminates the agreement early, they must pay a termination fee of INR 500,000.",
+        "llm_confidence": 0.85
       }
     },
     {
@@ -188,10 +188,10 @@
         "level": "Medium"
       },
       "llm_explanation": {
-        "plain_language_explanation": "This clause is standard and low risk.",
-        "risk_reasoning": null,
-        "suggested_alternative_clause": null,
-        "llm_confidence": 1.0
+        "plain_language_explanation": "Both parties must keep confidential any business or technical information they receive during the term of this agreement.",
+        "risk_reasoning": "This clause may be risky because it doesn't clearly define what constitutes confidential information. This could lead to disputes over what information is protected.",
+        "suggested_alternative_clause": "Both parties must keep confidential any business or technical information they receive during the term of this agreement, including but not limited to [list specific examples of confidential information].",
+        "llm_confidence": 0.7
       }
     },
     {
@@ -223,10 +223,10 @@
         "level": "High"
       },
       "llm_explanation": {
-        "plain_language_explanation": "This clause is standard and low risk.",
-        "risk_reasoning": null,
-        "suggested_alternative_clause": null,
-        "llm_confidence": 1.0
+        "plain_language_explanation": "All intellectual property created during the term of this agreement belongs exclusively to the client.",
+        "risk_reasoning": "This clause may be risky because it gives the client complete ownership of any intellectual property created during the agreement. This could leave the service provider with no rights or control over their own work.",
+        "suggested_alternative_clause": "The service provider retains ownership of any intellectual property they create during the term of this agreement, unless otherwise agreed upon in writing.",
+        "llm_confidence": 0.9
       }
     },
     {
@@ -256,10 +256,10 @@
         "level": "High"
       },
       "llm_explanation": {
-        "plain_language_explanation": "This clause is standard and low risk.",
-        "risk_reasoning": null,
-        "suggested_alternative_clause": null,
-        "llm_confidence": 1.0
+        "plain_language_explanation": "The service provider agrees to indemnify and hold harmless the client from any claims, losses, or damages arising out of a breach of this agreement.",
+        "risk_reasoning": "This clause may be risky because it places a significant burden on the service provider to indemnify the client. This could lead to financial difficulties for the service provider if they're found liable.",
+        "suggested_alternative_clause": "The service provider agrees to indemnify and hold harmless the client from any claims, losses, or damages arising out of a breach of this agreement, up to a maximum amount of INR 1,000,000.",
+        "llm_confidence": 0.8
       }
     },
     {
@@ -292,10 +292,10 @@
         "level": "Medium"
       },
       "llm_explanation": {
-        "plain_language_explanation": "This clause is standard and low risk.",
-        "risk_reasoning": null,
-        "suggested_alternative_clause": null,
-        "llm_confidence": 1.0
+        "plain_language_explanation": "This agreement will be governed by the laws of India, and any disputes will be resolved in the courts of Mumbai.",
+        "risk_reasoning": "This clause may be risky because it limits the jurisdiction to the courts of Mumbai. This could make it difficult or expensive for the service provider to resolve disputes if they're not based in Mumbai.",
+        "suggested_alternative_clause": "This agreement will be governed by the laws of India, and any disputes will be resolved through arbitration in accordance with the rules of the Indian Arbitration and Conciliation Act.",
+        "llm_confidence": 0.9
       }
     }
   ],

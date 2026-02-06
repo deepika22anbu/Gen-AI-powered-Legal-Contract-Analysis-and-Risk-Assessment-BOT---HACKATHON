@@ -15,9 +15,6 @@ from DeterministicLayer import apply_role_classification
 from riskIndication import apply_risk_type_detection, apply_risk_scoring, compute_contract_risk
 
 
-headers = {
-    "authorization" : st.secrets["auth_key"]
-}
 # Page Config
 
 st.set_page_config(
@@ -225,5 +222,4 @@ st.markdown("---")
 st.caption(
     "⚠️ Disclaimer: This tool provides informational insights only and does not constitute legal advice."
 )
-
 
