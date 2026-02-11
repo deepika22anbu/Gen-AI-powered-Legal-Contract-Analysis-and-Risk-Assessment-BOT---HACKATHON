@@ -3,6 +3,7 @@ streamlit
 reportlab
 langdetect
 deep-translator
+pip install --upgrade pip
 
 streamlit==1.31.1
 
@@ -20,3 +21,4 @@ python-docx
 
 # Environment
 python-dotenv
+
