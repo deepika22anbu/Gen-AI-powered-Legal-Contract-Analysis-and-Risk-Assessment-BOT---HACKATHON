@@ -4,7 +4,14 @@ import datetime
 import spacy
 import re
 
-nlp = spacy.load("en_core_web_sm")
+
+
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    from spacy.cli import download
+    download("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
 
 def extract_clauses(text):
     """
@@ -69,3 +76,4 @@ def build_storage_json(raw_text, filename):
         })
 
     return storage
+
