@@ -94,3 +94,6 @@ Clause explanations
 Risk insights
 
 Plain-English contract summary
+
+# Demo Video Link
+https://drive.google.com/drive/folders/1soE0LUaT1R8jGC-it7QyOzTNT3JXrQ46
